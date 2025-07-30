@@ -20,7 +20,6 @@ conda install ffmpeg -c conda-forge
 pip install -e .
 pip install -r requirements.txt
 ```
-tmux new -s egoexo_convert './run_convert.sh'
 
 # 3. Run
 Use tmux to run the conversion script in a background session, so the process continues even if your terminal disconnects:
