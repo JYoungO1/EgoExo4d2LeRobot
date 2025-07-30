@@ -1,5 +1,5 @@
 # EgoExo4d2LeRobot
-Convert EgoExo4D EgoPose Benchmark to LeRobot Dataset Format
+This script converts hand pose annotations from the EgoExo4D EgoPose Benchmark into a format compatible with the LeRobot dataset.
 
 # 1. LeRobot
 The EgoExo conversion script is based on the LeRobot code provided by Hugging Face.  
